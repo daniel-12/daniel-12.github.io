@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+textarea {
+    background: url(./images/sample.jpg);
+    color: white;
+    cursor: crosshair;
+}
+.main-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+
+.exp {
+    min-width: 600%;
+    display: inline-block;
+}
+
+.container {
+    max-width: 500px;
+    max-height: 300px;
+    overflow: hidden;
+    background-color: yellowgreen;
+}
+
